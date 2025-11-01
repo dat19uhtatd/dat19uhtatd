@@ -16,12 +16,12 @@
 ## 🐱‍👤 ABOUT ME 🐱‍🏍
 
 <table>
-  <tr><td><b>👤 Full Name</b></td><td>Phan Tiến Đạt (<b>uht.atd</b>)</td></tr>
-  <tr><td><b>🎂 Birthday</b></td><td>2006</td></tr>
-  <tr><td><b>📍 Location</b></td><td>Ha Noi Capital, Viet Nam</td></tr>
-  <tr><td><b>🎓 University</b></td><td>University of Transport and Communications</td></tr>
-  <tr><td><b>💼 Profession</b></td><td>Student</td></tr>
-  <tr><td><b>🔐 Specialization</b></td><td>Information Security</td></tr>
+  <tr><td><b> Full Name</b></td><td>Phan Tiến Đạt (<b>uht.atd</b>)</td></tr>
+  <tr><td><b> Birthday</b></td><td>2006</td></tr>
+  <tr><td><b> Location</b></td><td>Ha Noi Capital, Viet Nam</td></tr>
+  <tr><td><b> University</b></td><td>University of Transport and Communications</td></tr>
+  <tr><td><b> Profession</b></td><td>Student</td></tr>
+  <tr><td><b> Specialization</b></td><td>Information Security</td></tr>
 </table>
 
 ---
