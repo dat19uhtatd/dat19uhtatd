@@ -1,21 +1,11 @@
 <div align="center">
-
-<h1>
-  👋 
-  <span style="color:#6A5ACD;">
-    <b>
-      <span style="animation: blink 1.2s infinite;">Hello, I'm Dat!</span>
-    </b>
-  </span>
-</h1>
-
-<style>
-@keyframes blink {
-  0% { opacity: 1; }
-  50% { opacity: 0; }
-  100% { opacity: 1; }
-}
-</style>
+  <h1>
+    👋 
+    <marquee behavior="alternate" direction="left" scrollamount="5">
+      <span style="color:#6A5ACD;"><b>Hello, I'm Dat!</b></span>
+    </marquee>
+  </h1>
+</div>
 
 ---
 
@@ -33,7 +23,6 @@
 
 ✨ *“Learning every day, growing every line of code.”* ✨
 
-</div>
 
 
 ## 🌐 Socials:
