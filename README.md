@@ -1,4 +1,21 @@
-# 👋 Hello, I'm Dat!
+<div align="center">
+
+<h1>
+  👋 
+  <span style="color:#6A5ACD;">
+    <b>
+      <span style="animation: blink 1.2s infinite;">Hello, I'm Dat!</span>
+    </b>
+  </span>
+</h1>
+
+<style>
+@keyframes blink {
+  0% { opacity: 1; }
+  50% { opacity: 0; }
+  100% { opacity: 1; }
+}
+</style>
 
 ---
 
@@ -15,6 +32,9 @@
 ---
 
 ✨ *“Learning every day, growing every line of code.”* ✨
+
+</div>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/phandatt.06/) 
