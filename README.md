@@ -1,3 +1,20 @@
+# 👋 Hello, I'm Dat!
+
+---
+
+## 🐱‍👤 ABOUT ME 🐱‍🏍
+
+| **Full Name**     | Phan Tiến Đạt (uht.atd) |
+|--------------------|--------------------------|
+| **Birthday**       | 2006 |
+| **Location**       | Ha Noi Capital, Viet Nam |
+| **Profession**     | Student |
+| **University**     | University of Transport and Communications |
+| **Specialization** | Information Security |
+
+---
+
+✨ *“Learning every day, growing every line of code.”* ✨
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/phandatt.06/) 
