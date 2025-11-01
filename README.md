@@ -9,9 +9,9 @@
 
 ---
 
-### 🌟 *Student | Information Security | University of Transport and Communications* 🌟
+</div>
 
----
+<div align="left">
 
 ## 🐱‍👤 ABOUT ME 🐱‍🏍
 
@@ -28,11 +28,14 @@
 
 ✨ *“Learning every day, growing every line of code.”* ✨  
 
-<br>
+</div>
+
+<div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=700&color=9370DB&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Security+is+my+passion.;Code+with+heart+%26+logic.)
 
 </div>
+
 
 
 
